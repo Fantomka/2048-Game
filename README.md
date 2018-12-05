@@ -1,4 +1,7 @@
 # 2048-Game
+
+https://travis-ci.com/Fantomka/2048-Game.svg?branch=master
+
 First game written on C-language
 
 This game is written out of boredom and does not claim to be praised.
