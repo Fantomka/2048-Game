@@ -1,6 +1,6 @@
 # 2048-Game
 
-https://travis-ci.com/Fantomka/2048-Game.svg?branch=master
+[![Build Status](https://travis-ci.com/Fantomka/2048-Game.svg?branch=master)](https://travis-ci.com/Fantomka/2048-Game)
 
 First game written on C-language
 
