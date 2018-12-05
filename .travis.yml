@@ -1,4 +1,4 @@
-language: C++
+language: C
 OS: windows
 script: 
   - cmake ./
